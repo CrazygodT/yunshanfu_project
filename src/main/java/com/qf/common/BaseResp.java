@@ -9,7 +9,7 @@ public class BaseResp {
 
     private String message;
 
-    private Object data;
+    private Object myjs;
 
     private Long total;
 }
